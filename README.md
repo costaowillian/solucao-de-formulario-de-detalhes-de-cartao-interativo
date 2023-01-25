@@ -31,7 +31,7 @@ Versão Desktop:
 
 Versão Mobile:
 <p aling="center"> 
-    <img width="360" height="780" src="assets/img/actionMobileScreen.gif" >
+    <img width="360" height="480" src="assets/img/actionMobileScreen.gif" >
 </p>
 
 ## Meu processo
