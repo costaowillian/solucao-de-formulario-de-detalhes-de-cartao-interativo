@@ -2,11 +2,11 @@
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão-geral)
     - [O desafio](#o-desafio)
-    - [Captura de tela](#captura de tela)
+    - [Captura de tela](#captura-de-tela)
 - [Meu processo](#meu-processo)
-    - [Construído com](#construído com)
+    - [Construído com](#construído-com)
 - [Autor](#autor)
 
 ## Visão geral
