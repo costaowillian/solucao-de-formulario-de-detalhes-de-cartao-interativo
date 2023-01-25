@@ -1,0 +1,112 @@
+#form-control {
+    padding-top: 75px;
+    margin: 1.3rem;
+}
+
+#form-control #form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    width: 318px;
+}
+
+#form-control #form span {
+    color: hsl(278, 68%, 11%);
+}
+
+#form-control #form input {
+    width: 100%;
+    height: 25px;
+    border: 1px solid hsl(249, 99%, 64%);
+    border-radius: 8px;
+    padding: 5px 0px 3px 5px;
+}
+
+#form-control #form #set-date-cvc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+#form-control #form #set-date-cvc input {
+    margin-top: 4px;
+}
+
+#form-control #form #set-date-cvc #date {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+#form-control #form #set-date-cvc #date input {
+    width: 50px;
+    height: 25px;
+    border: 1px solid hsl(249, 99%, 64%);
+    border-radius: 8px;
+    padding: 5px 3px 3px 7px; 
+}
+
+#form-control #confirm {
+    width: 100%;
+    height: 34px;
+    border: 1px solid #b8b8b8;
+    border-radius: 8px;
+    padding: 5px 3px 3px 7px;
+    margin-top: 24px;
+    align-self: center;
+    background-color: hsl(278, 68%, 11%);
+    color: #ffffff;
+}
+
+#form-control #confirm:hover {
+    background-color: hsl(278, 94%, 30%);
+    color: #ffffff;
+}
+
+@media (min-width: 1200px) {
+    #form-control {
+        padding-top: 0px;
+        margin: 0 0 0 20rem;
+    }
+
+    #form-control #form {
+        gap: 18px;
+        width: 328px;
+    }
+
+    #form-control #form input {
+        height: 35px;
+        width: 321px;
+    }
+
+    #form-control #form #set-date-cvc #date input {
+        gap: 18px;
+        height: 35px;
+    }
+
+    #form-control #form #set-date-cvc input {
+        width: 172px;
+    }
+}
+
+
+#form-control #completed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 16px;
+
+    margin-top: 50px;
+}
+
+#form-control #completed h2{
+   color: hsl(278, 68%, 11%);
+}
+
+#form-control #completed p{
+    color: hsl(279, 6%, 55%);
+}
