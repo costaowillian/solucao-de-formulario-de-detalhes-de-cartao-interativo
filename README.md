@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 Versão Desktop:
 <p aling="center"> 
-    <img width="720" height="360" src="assets/img/actionScreen.gif" >
+    <img width="520" height="360" src="assets/img/actionScreen.gif" >
 </p>
 
 Versão Mobile:
